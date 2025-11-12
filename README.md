@@ -22,5 +22,7 @@ See some of the following how you can configure your machine for remote-access:
 - https://pastebin.com/raw/RryUb8iC
 - https://missionpinball.org/latest/hardware/spike/mpf-spike-bridge/
 - https://missionpinball.org/latest/hardware/spike/connection/
+- https://www.pinballinfo.com/community/threads/spike-debug-console.49678/
+
 
 The script will dump the files into the current directory, so it's recommended to run it from /tmp/.

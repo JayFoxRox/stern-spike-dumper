@@ -269,7 +269,7 @@ int main() {
 
 #else
 
-  #error Unknon Spike version
+  #error Unknown Spike version
 
 #endif
 
