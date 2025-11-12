@@ -26,3 +26,8 @@ See some of the following how you can configure your machine for remote-access:
 
 
 The script will dump the files into the current directory, so it's recommended to run it from /tmp/.
+
+
+## Extracting the factory key
+
+See comments in extract.py to generate the factory-key.
